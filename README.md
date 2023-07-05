@@ -5,6 +5,6 @@ You can find YouTube videos on how to install/uninstall TamperMonkey in [this](h
 
 # Features
 
-* Timed contests (updated with each AMC)
-* Score calculation and whether or not you qualified for AIME
-* You can re-try incorrect questions, and choose to view the solution
+* Timed contests (updated with each AMC).
+* Score calculation and whether or not you qualified for AIME.
+* You can re-try incorrect questions, and choose to view the solution.
